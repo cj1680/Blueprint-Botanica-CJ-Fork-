@@ -1,3 +1,3 @@
-# Blueprint Botanica
+# Blueprint Botanica 🌱
 
 ![](media/logo.png)
